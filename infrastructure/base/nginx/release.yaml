@@ -13,5 +13,6 @@ spec:
         name: nginx
       interval: 5h
   releaseName: nginx
+  targetNamespace: nginx
   interval: 1h
   
